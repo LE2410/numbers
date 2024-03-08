@@ -9,7 +9,7 @@ second  = assign_numbers[1] #string
 third  = assign_numbers [2] #string
 
 a = int(first)  #convert the above string into integer i.e whole values 
-b = int(second)
+b = int(second) 
 c = int(third)
 
 
