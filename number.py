@@ -3,7 +3,6 @@ print("Numbers entered: " , three_different_numbers)
 
 assign_numbers = three_different_numbers.split (" ") #assign_numbers has taken a string and split it into list of string type 
 
-
 first = assign_numbers [0] #string
 second = assign_numbers[1] #string
 third = assign_numbers [2] #string
@@ -11,7 +10,6 @@ third = assign_numbers [2] #string
 a = int(first)  #convert the above string into integer i.e whole values 
 b = int(second)
 c = int(third)
-
 
 sum_numbers=  (a + b + c)
 print("Sum of numbers entered:" , sum_numbers)
